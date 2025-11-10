@@ -12,7 +12,7 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 
 2. Base case: If n=1, return 𝐴[0][0]∗𝐵[0]
 
-3.Divide A and B into 4 submatrices each (A11,A12,A21,A22 and B11,B12,B21,B22).
+3. Divide A and B into 4 submatrices each (A11,A12,A21,A22 and B11,B12,B21,B22).
 
 4. Compute 7 Strassen products: M1 to M7 recursively using matrix addition/subtractio
  
