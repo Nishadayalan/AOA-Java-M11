@@ -13,7 +13,7 @@ To Write a Java program that takes an integer input N from the user and prints a
  
 ## Program:
 ```
-/*
+
 Developed by: NISHA D 
 Register Number: 212223230143
 
@@ -38,7 +38,7 @@ public class demo
         }
     }
 } 
-*/
+
 ```
 
 ## Output:
