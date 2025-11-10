@@ -21,7 +21,6 @@ The overall run time complexity should be O(log (m+n)).
 
 ## Program:
 ```
-Program to implement Reverse a String
 Developed by: NISHA D
 Register Number: 212223230143
 
