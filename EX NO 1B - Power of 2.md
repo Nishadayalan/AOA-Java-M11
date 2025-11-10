@@ -6,8 +6,9 @@ To write a Java program to for given constraints.Given an integer n, return true
 
 An integer n is a power of two, if there exists an integer x such that n == 2x.
 
-## Algorithm
-1.Read an integer n from the user.
+## Algorithm: 
+
+1. Read an integer n from the user.
 
 2. Check if n ≤ 0 — if true, return false (since powers of two are positive).
    
@@ -15,7 +16,7 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
    
 4. Return true if the condition holds; otherwise, false.
 
-5.Print the result indicating whether the given number is a power of two. 
+5. Print the result indicating whether the given number is a power of two. 
 
 ## Program:
 ```
